@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\bin\Debug\net6.0\Algorytm wpisywania wartości.exe
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\bin\Debug\net6.0\Algorytm wpisywania wartości.deps.json
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\bin\Debug\net6.0\Algorytm wpisywania wartości.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\bin\Debug\net6.0\Algorytm wpisywania wartości.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\bin\Debug\net6.0\Algorytm wpisywania wartości.pdb
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\refint\Algorytm wpisywania wartości.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.pdb
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\Algorytm wpisywania wartości.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Algorytm wpisywania wartości\Algorytm wpisywania wartości\obj\Debug\net6.0\ref\Algorytm wpisywania wartości.dll

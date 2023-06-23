@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortowanie przez wstawianie", "Sortowanie przez wstawianie\Sortowanie przez wstawianie.csproj", "{69ABA097-6F7A-403A-ACB0-E5EB01F6F5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69ABA097-6F7A-403A-ACB0-E5EB01F6F5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69ABA097-6F7A-403A-ACB0-E5EB01F6F5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69ABA097-6F7A-403A-ACB0-E5EB01F6F5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69ABA097-6F7A-403A-ACB0-E5EB01F6F5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25DCDE3B-B6BB-4EA2-9A36-8AD064D5D3D9}
+	EndGlobalSection
+EndGlobal

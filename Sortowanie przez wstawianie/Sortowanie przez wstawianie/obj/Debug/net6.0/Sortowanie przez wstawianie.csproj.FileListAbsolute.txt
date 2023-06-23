@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\bin\Debug\net6.0\Sortowanie przez wstawianie.exe
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\bin\Debug\net6.0\Sortowanie przez wstawianie.deps.json
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\bin\Debug\net6.0\Sortowanie przez wstawianie.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\bin\Debug\net6.0\Sortowanie przez wstawianie.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\bin\Debug\net6.0\Sortowanie przez wstawianie.pdb
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\refint\Sortowanie przez wstawianie.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.pdb
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\Sortowanie przez wstawianie.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Sortowanie przez wstawianie\Sortowanie przez wstawianie\obj\Debug\net6.0\ref\Sortowanie przez wstawianie.dll

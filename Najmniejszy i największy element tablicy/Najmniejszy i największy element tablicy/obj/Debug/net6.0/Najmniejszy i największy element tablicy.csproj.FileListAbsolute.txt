@@ -1,0 +1,15 @@
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\bin\Debug\net6.0\Najmniejszy i największy element tablicy.exe
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\bin\Debug\net6.0\Najmniejszy i największy element tablicy.deps.json
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\bin\Debug\net6.0\Najmniejszy i największy element tablicy.runtimeconfig.json
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\bin\Debug\net6.0\Najmniejszy i największy element tablicy.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\bin\Debug\net6.0\Najmniejszy i największy element tablicy.pdb
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.csproj.AssemblyReference.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.AssemblyInfoInputs.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.AssemblyInfo.cs
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.csproj.CoreCompileInputs.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\refint\Najmniejszy i największy element tablicy.dll
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.pdb
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\Najmniejszy i największy element tablicy.genruntimeconfig.cache
+C:\Users\Krzysiek\source\repos\17.06.23\Najmniejszy i największy element tablicy\Najmniejszy i największy element tablicy\obj\Debug\net6.0\ref\Najmniejszy i największy element tablicy.dll
